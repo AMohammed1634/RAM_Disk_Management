@@ -1,0 +1,91 @@
+﻿cl : Command line warning D9025: overriding '/sdl' with '/GS-'
+  Source.cpp
+g:\ahmed_mahrous\ahmed_mahrous\linkedlist.h(43): warning C4018: '<': signed/unsigned mismatch
+g:\ahmed_mahrous\ahmed_mahrous\linkedlist.h(53): warning C4018: '<': signed/unsigned mismatch
+g:\ahmed_mahrous\ahmed_mahrous\linkedlist.h(57): warning C4018: '<': signed/unsigned mismatch
+g:\ahmed_mahrous\ahmed_mahrous\linkedlist.h(68): warning C4018: '<': signed/unsigned mismatch
+g:\ahmed_mahrous\ahmed_mahrous\linkedlist.h(69): warning C4018: '>=': signed/unsigned mismatch
+g:\ahmed_mahrous\ahmed_mahrous\linkedlist.h(72): warning C4018: '<': signed/unsigned mismatch
+g:\ahmed_mahrous\ahmed_mahrous\linkedlist.h(82): warning C4018: '<': signed/unsigned mismatch
+g:\ahmed_mahrous\ahmed_mahrous\linkedlist.h(84): warning C4018: '<': signed/unsigned mismatch
+g:\ahmed_mahrous\ahmed_mahrous\linkedlist.h(97): warning C4018: '<': signed/unsigned mismatch
+g:\ahmed_mahrous\ahmed_mahrous\linkedlist.h(136): warning C4018: '<': signed/unsigned mismatch
+g:\ahmed_mahrous\ahmed_mahrous\linkedlist.h(156): warning C4244: 'argument': conversion from '__int64' to 'std::size_t', possible loss of data
+g:\ahmed_mahrous\ahmed_mahrous\linkedlist.h(155): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+g:\ahmed_mahrous\ahmed_mahrous\linkedlist.h(165): warning C4018: '<': signed/unsigned mismatch
+g:\ahmed_mahrous\ahmed_mahrous\linkedlist.h(204): warning C4018: '<': signed/unsigned mismatch
+g:\ahmed_mahrous\ahmed_mahrous\linkedlist.h(203): warning C4101: 'WriteFile': unreferenced local variable
+g:\ahmed_mahrous\ahmed_mahrous\linkedlist.h(227): warning C4018: '<': signed/unsigned mismatch
+g:\ahmed_mahrous\ahmed_mahrous\linkedlist.h(229): warning C4018: '<': signed/unsigned mismatch
+g:\ahmed_mahrous\ahmed_mahrous\linkedlist.h(260): warning C4018: '<': signed/unsigned mismatch
+g:\ahmed_mahrous\ahmed_mahrous\linkedlist.h(269): warning C4018: '<': signed/unsigned mismatch
+g:\ahmed_mahrous\ahmed_mahrous\linkedlist.h(270): warning C4018: '<': signed/unsigned mismatch
+g:\ahmed_mahrous\ahmed_mahrous\linkedlist.h(293): warning C4018: '<': signed/unsigned mismatch
+g:\ahmed_mahrous\ahmed_mahrous\linkedlist.h(296): warning C4018: '<': signed/unsigned mismatch
+g:\ahmed_mahrous\ahmed_mahrous\linkedlist.h(308): warning C4018: '<=': signed/unsigned mismatch
+g:\ahmed_mahrous\ahmed_mahrous\linkedlist.h(312): warning C4018: '<': signed/unsigned mismatch
+g:\ahmed_mahrous\ahmed_mahrous\linkedlist.h(324): warning C4018: '<': signed/unsigned mismatch
+g:\ahmed_mahrous\ahmed_mahrous\linkedlist.h(326): warning C4018: '>=': signed/unsigned mismatch
+g:\ahmed_mahrous\ahmed_mahrous\linkedlist.h(329): warning C4018: '<': signed/unsigned mismatch
+g:\ahmed_mahrous\ahmed_mahrous\linkedlist.h(339): warning C4018: '<': signed/unsigned mismatch
+g:\ahmed_mahrous\ahmed_mahrous\linkedlist.h(356): warning C4018: '<': signed/unsigned mismatch
+g:\ahmed_mahrous\ahmed_mahrous\linkedlist.h(360): warning C4018: '<': signed/unsigned mismatch
+g:\ahmed_mahrous\ahmed_mahrous\linkedlist.h(389): warning C4018: '<': signed/unsigned mismatch
+g:\ahmed_mahrous\ahmed_mahrous\linkedlist.h(398): warning C4244: 'argument': conversion from '__int64' to 'std::size_t', possible loss of data
+g:\ahmed_mahrous\ahmed_mahrous\linkedlist.h(388): warning C4996: 'mkdir': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _mkdir. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\direct.h(108): note: see declaration of 'mkdir'
+g:\ahmed_mahrous\ahmed_mahrous\linkedlist.h(397): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+g:\ahmed_mahrous\ahmed_mahrous\linkedlist.h(415): warning C4244: 'argument': conversion from '__int64' to 'std::size_t', possible loss of data
+g:\ahmed_mahrous\ahmed_mahrous\linkedlist.h(414): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+g:\ahmed_mahrous\ahmed_mahrous\linkedlist.h(432): warning C4018: '<': signed/unsigned mismatch
+g:\ahmed_mahrous\ahmed_mahrous\linkedlist.h(433): warning C4018: '<': signed/unsigned mismatch
+g:\ahmed_mahrous\ahmed_mahrous\linkedlist.h(436): warning C4018: '<': signed/unsigned mismatch
+g:\ahmed_mahrous\ahmed_mahrous\linkedlist.h(449): warning C4018: '<': signed/unsigned mismatch
+g:\ahmed_mahrous\ahmed_mahrous\linkedlist.h(450): warning C4018: '<': signed/unsigned mismatch
+g:\ahmed_mahrous\ahmed_mahrous\linkedlist.h(453): warning C4018: '<': signed/unsigned mismatch
+g:\ahmed_mahrous\ahmed_mahrous\linkedlist.h(460): warning C4018: '<': signed/unsigned mismatch
+g:\ahmed_mahrous\ahmed_mahrous\linkedlist.h(475): warning C4018: '<': signed/unsigned mismatch
+g:\ahmed_mahrous\ahmed_mahrous\linkedlist.h(476): warning C4018: '<': signed/unsigned mismatch
+g:\ahmed_mahrous\ahmed_mahrous\linkedlist.h(477): warning C4244: '=': conversion from '__int64' to 'long double', possible loss of data
+g:\ahmed_mahrous\ahmed_mahrous\linkedlist.h(485): warning C4018: '<': signed/unsigned mismatch
+g:\ahmed_mahrous\ahmed_mahrous\linkedlist.h(489): warning C4244: '=': conversion from '__int64' to 'long double', possible loss of data
+g:\ahmed_mahrous\ahmed_mahrous\linkedlist.h(498): warning C4244: 'return': conversion from '__int64' to 'long double', possible loss of data
+g:\ahmed_mahrous\ahmed_mahrous\linkedlist.h(502): warning C4018: '<': signed/unsigned mismatch
+g:\ahmed_mahrous\ahmed_mahrous\linkedlist.h(531): warning C4244: '+=': conversion from 'uintmax_t' to 'std::size_t', possible loss of data
+g:\ahmed_mahrous\ahmed_mahrous\linkedlist.h(566): warning C4018: '<': signed/unsigned mismatch
+g:\ahmed_mahrous\ahmed_mahrous\linkedlist.h(646): warning C4018: '<': signed/unsigned mismatch
+g:\ahmed_mahrous\ahmed_mahrous\linkedlist.h(647): warning C4018: '<': signed/unsigned mismatch
+g:\ahmed_mahrous\ahmed_mahrous\linkedlist.h(724): warning C4244: 'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
+g:\ahmed_mahrous\ahmed_mahrous\linkedlist.h(734): warning C4244: 'argument': conversion from '__int64' to 'std::size_t', possible loss of data
+g:\ahmed_mahrous\ahmed_mahrous\linkedlist.h(757): warning C4018: '<': signed/unsigned mismatch
+g:\ahmed_mahrous\ahmed_mahrous\linkedlist.h(759): warning C4018: '<': signed/unsigned mismatch
+g:\ahmed_mahrous\ahmed_mahrous\linkedlist.h(705): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+g:\ahmed_mahrous\ahmed_mahrous\linkedlist.h(745): warning C4101: 'pFile1': unreferenced local variable
+g:\ahmed_mahrous\ahmed_mahrous\linkedlist.h(776): warning C4018: '<': signed/unsigned mismatch
+g:\ahmed_mahrous\ahmed_mahrous\linkedlist.h(779): warning C4018: '<': signed/unsigned mismatch
+g:\ahmed_mahrous\ahmed_mahrous\linkedlist.h(782): warning C4018: '<': signed/unsigned mismatch
+g:\ahmed_mahrous\ahmed_mahrous\linkedlist.h(799): warning C4018: '<': signed/unsigned mismatch
+g:\ahmed_mahrous\ahmed_mahrous\linkedlist.h(844): warning C4018: '<': signed/unsigned mismatch
+g:\ahmed_mahrous\ahmed_mahrous\linkedlist.h(856): warning C4244: 'argument': conversion from '__int64' to 'std::size_t', possible loss of data
+g:\ahmed_mahrous\ahmed_mahrous\linkedlist.h(842): warning C4996: 'mkdir': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _mkdir. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\direct.h(108): note: see declaration of 'mkdir'
+g:\ahmed_mahrous\ahmed_mahrous\linkedlist.h(855): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+g:\ahmed_mahrous\ahmed_mahrous\source.cpp(72): warning C4244: 'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
+g:\ahmed_mahrous\ahmed_mahrous\source.cpp(79): warning C4244: 'argument': conversion from '__int64' to 'std::size_t', possible loss of data
+g:\ahmed_mahrous\ahmed_mahrous\source.cpp(55): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+g:\ahmed_mahrous\ahmed_mahrous\source.cpp(87): warning C4101: 'pFile1': unreferenced local variable
+g:\ahmed_mahrous\ahmed_mahrous\source.cpp(145): warning C4018: '<': signed/unsigned mismatch
+g:\ahmed_mahrous\ahmed_mahrous\source.cpp(153): warning C4018: '<': signed/unsigned mismatch
+g:\ahmed_mahrous\ahmed_mahrous\source.cpp(156): warning C4018: '<': signed/unsigned mismatch
+g:\ahmed_mahrous\ahmed_mahrous\source.cpp(180): warning C4244: 'argument': conversion from 'long double' to '__int64', possible loss of data
+g:\ahmed_mahrous\ahmed_mahrous\source.cpp(224): warning C4018: '<': signed/unsigned mismatch
+g:\ahmed_mahrous\ahmed_mahrous\source.cpp(142): warning C4102: 'll': unreferenced label
+g:\ahmed_mahrous\ahmed_mahrous\linkedlist.h(495): warning C4715: 'dataStructure::delKernally': not all control paths return a value
+  ahmed_Mahrous.vcxproj -> G:\ahmed_Mahrous\Debug\ahmed_Mahrous.exe
+  ahmed_Mahrous.vcxproj -> G:\ahmed_Mahrous\Debug\ahmed_Mahrous.pdb (Full PDB)
